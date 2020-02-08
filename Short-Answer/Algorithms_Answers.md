@@ -1,15 +1,11 @@
-#### Please add your answers to the ***Analysis of  Algorithms*** exercises here.
+#### Please add your answers to the **_Analysis of Algorithms_** exercises here.
 
 ## Exercise I
 
-a)
-
-
-b)
-
-
-c)
+a) O(n)
+b) O(n log n)
+c) O(n)
 
 ## Exercise II
 
-
+I would use binary search. Big O would be O(log n)
